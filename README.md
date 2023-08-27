@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/nf985lW6iawAAAAM/anonymous-hacker.gif" width="800" height="200"/>
+  <img autoplay="autoplay" src="https://media.tenor.com/nf985lW6iawAAAAM/anonymous-hacker.gif" width="800" height="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Xoss Ridoy</h1>
 <h3 align="center">Hello everyone i'm programmer form Bangladesh 🇧🇩</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
+<img align="right" alt="coding" autoplay="autoplay" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
 
 - 🔭 I’m currently working on **My personal project**
 
